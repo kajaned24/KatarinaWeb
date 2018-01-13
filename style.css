@@ -1,0 +1,6 @@
+.jumbotron {
+	background-image: url('travel.jpg');
+	height: 500px;
+	color: black;
+	font-family: 'Indie Flower', cursive;
+}

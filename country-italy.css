@@ -1,0 +1,8 @@
+.jumbotron {
+	background-image: url('italija.jpg');
+	height: 500px;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	margin-bottom: 0px;
+	border: 2px solid black;
+}

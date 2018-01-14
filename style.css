@@ -38,6 +38,7 @@ img{
 	width: 300px;
 	height: 400px;
 	border: 2px solid black;
+	position: relative;
 }
 
 .col-sm-4 {
@@ -54,10 +55,12 @@ img{
 p {
 	font-size: 20px;
 	padding-top: 20px;
+	text-align: justify;
 }
 
 .main-content{
 	background-color: #F3EAD4;
+	padding-bottom: 70px;
 }
 .first {
 	padding-left: 20px;
@@ -91,6 +94,23 @@ a {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	text-align: center;
+	position: relative;
+	bottom: 0px;
 }
 
- 
+.picture-main {
+	margin-top: 55px;
+	width: 330px;
+	height: 440px;
+	position: relative;
+}
+
+.row {
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.picture-main-main {
+	margin-top: -10px;
+}
